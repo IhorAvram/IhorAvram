@@ -1,6 +1,6 @@
 [![Header](https://github.com/IhorAvram/IhorAvram/blob/main/assets/github_preview.jpg)](https://www.linkedin.com/in/ihoravram/)
 
-### I'm a Junior QA who likes LEGO.
+## I am a Junior QA.
 
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=jira&logoColor=2684ff)
