@@ -7,5 +7,6 @@
 ![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=#00a691)
 ![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=#00a691)
 
-Follow Me
+### Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ihoravram/)
 
