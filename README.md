@@ -1,6 +1,8 @@
 [![Header](https://github.com/IhorAvram/IhorAvram/blob/main/assets/github_preview.jpg)](https://www.linkedin.com/in/ihoravram/)
 
-## I am a Junior [for now] QA.
+# Hi!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+
+## I am a Junior [for now] QA :baby: :man_technologist:
 
 ### Tools
 
