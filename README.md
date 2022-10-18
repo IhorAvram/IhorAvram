@@ -5,12 +5,12 @@
 ### Tools
 
 ![Jira](https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=jira&logoColor=2684ff)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-ffffff?style=for-the-badge&logo=AzureDevOps&logoColor=0078d4)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=#00a691)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-ffffff?style=for-the-badge&logo=AzureDevOps&logoColor=0078d4)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=0E84D3100000)
+![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=Mysql&logoColor=#00a691)
 ![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=#00a691)
-![DevTools](https://img.shields.io/badge/DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=1967D2)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-ffffff?style=for-the-badge&logo=androidstudio&logoColor=#34B76E)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-ffffff?style=for-the-badge&logo=googlechrome&logoColor=1967D2)
+![Android Studio](https://img.shields.io/badge/Android_Studio-ffffff?style=for-the-badge&logo=androidstudio&logoColor=#34B76E)
 
 ### Contact me
 
